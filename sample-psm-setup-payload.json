@@ -1,0 +1,7 @@
+{ 
+    "username":"rampradeep.pakalapati@example.com",
+    "password":"*************",
+	"identityDomain":"idcs-***********************",
+    "region":"us",
+    "outputFormat":"json"
+}
