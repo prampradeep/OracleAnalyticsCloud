@@ -1,7 +1,0 @@
-hostname = 'pmoac-sehubjapacprod-bo.analytics.ocp.oraclecloud.com'
-UserName = 'demouser'
-Password = 'Welcome1234#'
-namespace = 'sehubjapacprod'
-bucket = 'oacsnapshots'
-prefix = 'Cognizant'
-SnapPassword = 'Admin123'
